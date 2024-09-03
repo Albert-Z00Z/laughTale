@@ -726,6 +726,10 @@ timeline-item:last-child {
     .home-img img {
         width: 56vw;
     }
+    .home-content p{
+        max-width: 600px;
+        margin: 0 auto;
+    }
     .services h2 {
         margin-bottom: 3rem;
     }
